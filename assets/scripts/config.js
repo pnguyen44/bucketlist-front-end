@@ -2,7 +2,7 @@
 
 const config = {
   apiOrigins: {
-    production: 'https://stormy-stream-35182.herokuapp.com'
+    production: 'https://bucket-list-pn.herokuapp.com'
   }
 }
 
