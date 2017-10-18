@@ -304,16 +304,7 @@ p {
 .footer {
 margin:auto;
 }
-
-@media (max-width: 320px)  {
-  .container-result-pic .yelpImage {
-    // height: 48px;
-    // width: 40px;
-    // margin-right: -5px;
-    display: none;
-    }
-}
-@media (max-width: 568px) {
+@media (max-width: 438px) {
   body {
     font-size: 10px;
   }
@@ -341,16 +332,10 @@ margin:auto;
 .container-result-pic .yelpImage {
   height: 48px;
   width: 40px;
-  // margin-right: -5px;
-  // display:none;
+  margin-right: -5px;
   }
 }
-@media only screen and (max-width: 1440px) and (min-width: 768px) {
-  h1 {
-    font-size: 37px;
-  }
-}
-@media only screen and (max-width: 1080px) and (min-width: 1023px) {
+@media only screen and (max-width: 1024px) and (min-width: 1024px) {
   .container-result-pic .yelpImage {
     height: 70px;
     width: 65px;
@@ -358,9 +343,4 @@ margin:auto;
   .container-list-content .box-item {
     height: 195px;
    }
-}
-@media only screen and (max-width: 2560px) and (min-width: 2560px) {
-  .container {
-    padding-left: 9%;
-  }
 }
