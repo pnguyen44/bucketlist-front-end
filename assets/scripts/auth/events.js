@@ -62,6 +62,9 @@ const onSignOut = function (event) {
 }
 const clearMessage = function () {
   $('#message-form').text('')
+}
+
+const clearFormInput = function () {
   $('#email-address').val('')
   $('#password').val('')
   $('#password-confirmation').val('')
@@ -79,9 +82,9 @@ const addHandlers = function () {
   $('#sign-in').on('submit', onSignIn)
   $('#change-password').on('submit', onChangePassword)
   $('#btn-sign-out').on('click', onSignOut)
-  $('#btn-sign-up').on('click', clearMessage)
-  $('#btn-sign-in').on('click', clearMessage)
-  $('#btn-change-password').on('click', clearMessage)
+  $('#btn-sign-up').on('click', clearFormInput)
+  $('#btn-sign-in').on('click', clearFormInput)
+  $('#btn-change-password').on('click', clearFormInput)
 }
 
 module.exports = {
