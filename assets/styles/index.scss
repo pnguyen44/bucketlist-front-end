@@ -78,8 +78,9 @@ font-size: $font-size-main;
 .bucket-image {
   content:url('https://i.imgur.com/34fBKAn.jpg');
   margin: auto;
-  width: 400px;
-  height: 400px;
+  width: 50%;
+  height: 50%;
+  border-style: solid;
 }
 
 .container {
