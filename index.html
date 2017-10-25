@@ -183,8 +183,9 @@
             </button>
           <div class="modal-title" id="exampleModalLabel">Edit Item</div>
         </div>
-        <form id="edit-listitem">
-          <div class="modal-body">
+
+        <div class="modal-body">
+          <form id="edit-listitem">
             <div class='message-form'></div>
             <label for="item-name">Name</label>
             <input class="form-control" id="input-item-name" type="text" name="listitem[name]" placeholder="Name">
@@ -205,11 +206,11 @@
                 <option>Completed ✅</option>
               </select>
             </div>
-          </div>
-          <div class="modal-footer">
-            <button type="submit" class="btn btn-primary pull-right" name="submit" value="Save">Save</button>
-          </div>
-        </form>
+            <div class="modal-footer">
+              <button type="submit" class="btn btn-primary pull-right" name="submit" value="Save">Save</button>
+            </div>
+          </form>
+        </div>
       </div>
     </div>
   </div>
@@ -225,8 +226,8 @@
             </button>
           <div class="modal-title" id="exampleModalLabel">Add Item to Bucket List</div>
         </div>
-        <form id="add-yelp-listitem">
-          <div class="modal-body">
+        <div class="modal-body">
+          <form id="add-yelp-listitem">
             <div class='message-form'></div>
             <label for="item-name">Name</label>
             <input class="form-control" id="input-yelp-item-name" type="text" name="listitem[name]" placeholder="Name">
@@ -239,11 +240,11 @@
             <br>
             <label for="rating">Rating</label>
             <input class="form-control" id="input-yelp-rating" type="number" max=5 min=0 name="listitem[rating]" placeholder="Rating (1-5)">
-          </div>
-          <div class="modal-footer">
-            <button type="submit" class="btn btn-primary pull-right" name="submit" value="Save">Save</button>
-          </div>
-        </form>
+            <div class="modal-footer">
+              <button type="submit" class="btn btn-primary pull-right" name="submit" value="Save">Save</button>
+            </div>
+          </form>
+        </div>
       </div>
     </div>
   </div>
