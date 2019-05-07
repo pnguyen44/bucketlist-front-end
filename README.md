@@ -1,10 +1,10 @@
-###### Link to Frontend Repo: https://github.com/pnguyen44/bucketlist-api
-###### Link to Frontend Deployed Site: https://bucket-list-pn.herokuapp.com/
+###### Link to Backend Repo: https://github.com/pnguyen44/bucketlist-api
+###### Link to Backend Deployed Site: https://bucket-list-pn.herokuapp.com/
 
 This was initially a group project. Since then, I have updated the Yelp search feature due to changes in Yelp Fusion API.  Below is the initial deployment information.
 
-###### Link to Backend-Api Repo: https://github.com/Squadrilateral/bucketlist-api
-###### Link to Backend-Api Deployed Site: https://stormy-stream-35182.herokuapp.com/
+###### Link to Backend Repo: https://github.com/Squadrilateral/bucketlist-api
+###### Link to Backend Deployed Site: https://stormy-stream-35182.herokuapp.com/
 
 # Bucket List App!
 
