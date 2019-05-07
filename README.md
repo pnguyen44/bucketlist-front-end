@@ -1,9 +1,14 @@
+###### Link to Frontend Repo: https://github.com/pnguyen44/bucketlist-api
+###### Link to Frontend Deployed Site: https://bucket-list-pn.herokuapp.com/
+
+This was initially a group project. Since then, I have updated the Yelp search feature due to changes in Yelp Fusion API.  Below is the initial deployment information.
+
+###### Link to Backend-Api Repo: https://github.com/Squadrilateral/bucketlist-api
+###### Link to Backend-Api Deployed Site: https://stormy-stream-35182.herokuapp.com/
+
 # Bucket List App!
 
 Have you ever wanted to have a special place to store your wildest dreams!? Good news, you came to the right place! Our app is specifically designed to allow users to personalize their page by allowing them to store bucket list items and rank them. The first step for new users is to create a personal profile by making a username and password. Once the user is authorized, they are then able to start adding their bucket list items! To add a bucket list item, users will need to fill out the appropriate fields on the page including (name, location, category and rating). Once the form is submitted, the user is then greeted by seeing their new list item displayed on the page. If a user wishes to delete or update an existing bucket list item, they can do that by clicking the appropriate buttons next to the item. Bucket list items are specific to the the authorized user, so only authorized users can see their specific list items. HAPPY BUCKET LISTING!
-
-## Link to Backend-Api Repo: https://github.com/Squadrilateral/bucketlist-api
-## Link to Backend-Api Deployed Site: https://stormy-stream-35182.herokuapp.com/
 
 ## Planning
 
@@ -67,7 +72,7 @@ By day 2 we were making progress and agreed to incorporate a stretch goal by att
 - ATOM
 - Github
 - Stack Overflow
-- Yelp Api Documentation 
+- Yelp Api Documentation
 
 ## Future Plans
 
